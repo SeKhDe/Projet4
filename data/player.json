@@ -1,0 +1,74 @@
+{
+    "_default": {
+        "1": {
+            "name": "a",
+            "firstname": "z",
+            "date_of_birth": "e",
+            "total_score": 0,
+            "rank": 0
+        },
+        "2": {
+            "name": "r",
+            "firstname": "t",
+            "date_of_birth": "y",
+            "total_score": 0,
+            "rank": 0
+        },
+        "3": {
+            "name": "u",
+            "firstname": "i",
+            "date_of_birth": "o",
+            "total_score": 0,
+            "rank": 0
+        },
+        "4": {
+            "name": "fg",
+            "firstname": "j",
+            "date_of_birth": "k",
+            "total_score": 0,
+            "rank": 0
+        },
+        "5": {
+            "name": "a",
+            "firstname": "z",
+            "date_of_birth": "e",
+            "total_score": 0,
+            "rank": 0
+        },
+        "6": {
+            "name": "r",
+            "firstname": "t",
+            "date_of_birth": "yu",
+            "total_score": 0,
+            "rank": 0
+        },
+        "7": {
+            "name": "a",
+            "firstname": "z",
+            "date_of_birth": "e",
+            "total_score": 0,
+            "rank": 0
+        },
+        "8": {
+            "name": "r",
+            "firstname": "t",
+            "date_of_birth": "y",
+            "total_score": 0,
+            "rank": 0
+        },
+        "9": {
+            "name": "de",
+            "firstname": "se",
+            "date_of_birth": "",
+            "total_score": 0,
+            "rank": 0
+        },
+        "10": {
+            "name": "kd",
+            "firstname": "azd",
+            "date_of_birth": "zf",
+            "total_score": 0,
+            "rank": 0
+        }
+    }
+}
